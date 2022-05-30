@@ -1,0 +1,4 @@
+#Mon May 30 17:49:53 IST 2022
+base.0=/Users/ramprakash/Downloads/IIDE-Cart/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
